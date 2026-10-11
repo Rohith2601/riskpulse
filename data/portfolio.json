@@ -1,0 +1,6 @@
+[
+  {"id":"L-01","asset_class":"Loans","name":"Corporate term loans","notional_m":32,"rate_sensitivity":-0.035,"equity_beta":0.15,"credit_beta":-0.40},
+  {"id":"B-01","asset_class":"Bonds","name":"Investment-grade bonds","notional_m":26,"rate_sensitivity":-0.090,"equity_beta":0.05,"credit_beta":-0.22},
+  {"id":"E-01","asset_class":"Equities","name":"Global equity basket","notional_m":20,"rate_sensitivity":-0.010,"equity_beta":1.00,"credit_beta":-0.10},
+  {"id":"D-01","asset_class":"Derivatives","name":"Rates and credit swaps","notional_m":22,"rate_sensitivity":-0.055,"equity_beta":0.25,"credit_beta":-0.32}
+]

@@ -1,0 +1,11 @@
+{
+  "name": "riskpulse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unified AI/NLP risk engine demo for the S&P Global & Crisil Campus Hackathon",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}
